@@ -1,0 +1,3 @@
+framework,time,files,rows,total_s,udf_native_s,udf_python_s
+ray,2026-10-03 17:18,3,8574677,1131.86,0.22,2.01
+spark,2026-10-03 17:26,3,8574677,46.93,2.67,2.85
